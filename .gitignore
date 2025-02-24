@@ -58,3 +58,6 @@ build/
 hs_err_pid*
 replay_pid*
 >>>>>>> 126963f1dbceae69c16050476f9de92aa5195101
+
+# Ignorar arquivos .env
+.env
